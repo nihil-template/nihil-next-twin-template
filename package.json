@@ -1,16 +1,16 @@
 {
-  "name": "nihil-next-template",
+  "name": "nihil-next-twin-template",
   "version": "1.0.0",
-  "description": "Nextjs 편하게 쓰려고 만든 템플릿. 타입스크립트 기본 지원.",
+  "description": "Nextjs 편하게 쓰려고 만든 템플릿. 타입스크립트 기본 지원. Emotion & TailwindCSS 지원",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nihil-template/nihil-next-template.git"
+    "url": "git+https://github.com/nihil-template/nihil-next-twin-template.git"
   },
   "bugs": {
-    "url": "https://github.com/nihil-template/nihil-next-template/issues"
+    "url": "https://github.com/nihil-template/nihil-next-twin-template/issues"
   },
-  "homepage": "https://github.com/nihil-template/nihil-next-template#readme",
+  "homepage": "https://github.com/nihil-template/nihil-next-twin-template#readme",
   "scripts": {
     "remove": "rm -rf node_modules/.cache && rm -rf build/",
     "serve": "yarn run remove && next dev",
